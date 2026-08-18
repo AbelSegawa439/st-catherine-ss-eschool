@@ -1,0 +1,15 @@
+export const school = {
+  name: "St. Catherine Secondary School",
+  shortName: "St. Catherine SS",
+  campus: "Nabbingo-Ttega",
+  motto: "Sweat for Success",
+  type: "secondary",
+  ownership: "private",
+  founder: "catholic",
+  gender: "mixed",
+  accommodation: ["day", "boarding"],
+  curriculum: "UNEB",
+  district: "Wakiso",
+  phone: "+256752672864",
+  email: "Esscanattega97@gmail.com",
+} as const;
